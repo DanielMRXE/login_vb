@@ -1,0 +1,13 @@
+C:\Users\HP I5\source\repos\login2\login2\bin\Debug\login2.exe.config
+C:\Users\HP I5\source\repos\login2\login2\bin\Debug\login2.exe
+C:\Users\HP I5\source\repos\login2\login2\bin\Debug\login2.pdb
+C:\Users\HP I5\source\repos\login2\login2\bin\Debug\login2.xml
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.vbproj.AssemblyReference.cache
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.Form1.resources
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.Resources.resources
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.vbproj.GenerateResource.cache
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.vbproj.CoreCompileInputs.cache
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.exe
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.xml
+C:\Users\HP I5\source\repos\login2\login2\obj\Debug\login2.pdb

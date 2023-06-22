@@ -11,6 +11,10 @@
 Option Strict On
 Option Explicit On
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f368f933b76ce66a2c7459dc6288f66e779ecfaf
 Namespace My
 
     'NOTE: This file is auto-generated; do not modify it directly.  To make changes,
@@ -20,6 +24,7 @@ Namespace My
     '
     Partial Friend Class MyApplication
 
+<<<<<<< HEAD
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>
         Public Sub New()
             MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
@@ -32,6 +37,20 @@ Namespace My
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>
         Protected Overrides Sub OnCreateMainForm()
             Me.MainForm = Form1
+=======
+        <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
+        Public Sub New()
+            MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
+            Me.IsSingleInstance = false
+            Me.EnableVisualStyles = true
+            Me.SaveMySettingsOnExit = true
+            Me.ShutDownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
+        End Sub
+
+        <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
+        Protected Overrides Sub OnCreateMainForm()
+            Me.MainForm = Global.login2.Form1
+>>>>>>> f368f933b76ce66a2c7459dc6288f66e779ecfaf
         End Sub
     End Class
 End Namespace
